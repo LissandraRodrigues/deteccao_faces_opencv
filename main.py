@@ -48,6 +48,7 @@ def main():
             break
 
     video.release()
+    
     cv2.destroyAllWindows()
 
 main()
